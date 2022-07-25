@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Currency</string>
+    <string name="kes">KES</string>
+    <string name="convert_currency">Convert Currency</string>
+    <string name="usd">USD</string>
+    <string name="eur">EUR</string>
+    <string name="jpy">JPY</string>
+    <string name="gbp">GBP</string>
+    <string name="chf">CHF</string>
+    <string name="cad">CAD</string>
+    <string name="zar">ZAR</string>
+    <string name="rate">Rate:</string>
+    <string name="converted_curr">Converted Curr</string>
+    <string name="convert">Convert</string>
+</resources>
