@@ -27,5 +27,5 @@ To run the application:
 3. Run the application
 
 
-```
+
 <p align="right">(<a href="#top">back to top</a>)</p>
